@@ -70,7 +70,22 @@ sh run_bo.sh
 
 We store the configuration files under ``./configs``. You can explore other settings as you like by editing those configuration files.
 
+## BibTex
+
+If you find our work helpful, please cite us by adding the following BibTex.
+
+```latex
+@article{chen2023unsupervised,
+  title={Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction},
+  author={Chen, Guangyi and Chen, Zhenhao and Fan, Shunxing and Zhang, Kun},
+  journal={arXiv preprint arXiv:2304.04298},
+  year={2023}
+}
+```
+
 ## Acknowledgement
 
-## License
+This project was partially supported by the **National Institutes of Health (NIH)** under Contract R01HL159805, by the **NSF-Convergence Accelerator** Track-D award #2134901, by a grant from **Apple Inc.**, a grant from **KDDI Research Inc.**, and generous gifts from **Salesforce Inc.**, **Microsoft Research**, and **Amazon Research**. 
+
+We would like to thank our colleague **Zunhao Zhang** from *MBZUAI* for providing computation resource for part of the experiments.
 
