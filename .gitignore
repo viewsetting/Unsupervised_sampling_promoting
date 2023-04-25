@@ -2,7 +2,7 @@
 .vscode
 
 # Mac
-.DS_Store
+*.DS_Store
 
 # python
 *.pyc
