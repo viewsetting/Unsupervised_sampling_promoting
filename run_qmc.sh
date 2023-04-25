@@ -1,0 +1,1 @@
+python3 evaluate_pipeline.py --config configs/pecnet/qmc.yaml

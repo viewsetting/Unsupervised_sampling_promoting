@@ -1,0 +1,72 @@
+model_name: 'pecnet'
+obs_len: 8
+pred_len: 12
+skip: 1
+loader_num_workers: 20
+model_path: 
+  - 'saved_models/pecnet/eth/val_best.pth'
+  - 'saved_models/pecnet/hotel/val_best.pth'
+  - 'saved_models/pecnet/univ/val_best.pth'
+  - 'saved_models/pecnet/zara1/val_best.pth'
+  - 'saved_models/pecnet/zara2/val_best.pth'
+dataset_path: 
+  - 'src/datasets/eth/test'
+  - 'src/datasets/hotel/test'
+  - 'src/datasets/univ/test'
+  - 'src/datasets/zara1/test'
+  - 'src/datasets/zara2/test'
+datasets: 
+  - 'eth'
+  - 'hotel'
+  - 'univ'
+  - 'zara1'
+  - 'zara2'
+eval_times: 3
+batch_size: 
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+gpu_idx: 0
+qmc: True
+output_log: 'pecnet_bo.log'
+bo:
+  acq_type: 'UCB'
+  bound_factor: 
+    - 5
+    - 2.5
+    - 3
+    - 0.9
+    - 1
+  acq_factor:
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+    - 0.5
+  max_iter: 
+    - 100
+    - 50
+    - 50
+    - 30
+    - 30
+  lr: 
+    - 0.01
+    - 0.03
+    - 0.03
+    - 0.03
+    - 0.03
+  num_of_warmup: 
+    - 20
+    - 20
+    - 20
+    - 20
+    - 20
+  num_of_bo: 
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  bb_function_mode: raw
