@@ -1,0 +1,10 @@
+# vscode
+.vscode
+
+# Mac
+.DS_Store
+
+# python
+*.pyc
+*.pyo
+**/__pycache__
