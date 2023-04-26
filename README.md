@@ -1,6 +1,6 @@
 # Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction
 
-[![arXiv](https://img.shields.io/badge/arXiv-2304.04298-b31b1b.svg?style=flat)](https://arxiv.org/abs/2304.04298)[![arXiv](https://img.shields.io/badge/CVPR-2023-1c75b8)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2304.04298-b31b1b.svg?style=flat)  ](https://arxiv.org/abs/2304.04298)[![arXiv](https://img.shields.io/badge/CVPR-2023-1c75b8)]()
 
 
 
