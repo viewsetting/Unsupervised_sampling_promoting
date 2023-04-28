@@ -89,7 +89,7 @@ We store the configuration files under ``./configs``. You can explore other sett
 
 If you find our work helpful, please cite us by adding the following BibTex.
 
-```latex
+```Tex
 @article{chen2023unsupervised,
   title={Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction},
   author={Chen, Guangyi and Chen, Zhenhao and Fan, Shunxing and Zhang, Kun},
