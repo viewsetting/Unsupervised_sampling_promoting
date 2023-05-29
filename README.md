@@ -94,6 +94,7 @@ If you find our work helpful, please cite us by adding the following BibTex.
   title={Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction},
   author={Chen, Guangyi and Chen, Zhenhao and Fan, Shunxing and Zhang, Kun},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={17874--17884},
   year={2023}
 }
 ```
