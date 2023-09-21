@@ -6,7 +6,7 @@
 
 The official repo for "Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction" (accepted by **CVPR 2023**)
 
-**[Guangyi Chen](https://chengy12.github.io/)\*, [Zhenhao Chen](https://zhenhaochenofficial.github.io/)\*, [Shunxing Fan](https://scholar.google.com/citations?user=SbGcOdYAAAAJ&hl=en)\*, [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/)** \*\* 
+**[Guangyi Chen](https://chengy12.github.io/)\*, [Zhenhao Chen](https://zhenhaochenofficial.github.io/)\*, [Shunxing Fan](https://scholar.google.com/citations?user=SbGcOdYAAAAJ&hl=en), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/)** \*\* 
 
 > **Abstract**
 >
