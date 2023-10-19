@@ -16,6 +16,17 @@ The official repo for "Unsupervised Sampling Promoting for Stochastic Human Traj
 
 ** *Code & Configuration on the exception subset will be updated later.*
 
+## Star History
+
+<a href="https://star-history.com/#viewsetting/Unsupervised_sampling_promoting&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=viewsetting/Unsupervised_sampling_promoting&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=viewsetting/Unsupervised_sampling_promoting&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=viewsetting/Unsupervised_sampling_promoting&type=Date" />
+  </picture>
+</a>
+
+
 
 ## Introduction
 * BOsampler is a plug-and-play method to promote the sampling process of stochastic prediction in human trajectory forecasting without retraining the model or accessing the source data.
